@@ -68,7 +68,7 @@ function User() {
            <label>Number of events registered</label>
            <input type="number"  className='text-black'/>
         </div>
-        <div className='flex flex-col text-left w-96  text-gray-100 py-2'>
+        <div className='flex flex-col text-left   text-gray-100 py-2'>
            <label>Name of the events</label>
            <input type="text" className='  text-black' />
         </div>
